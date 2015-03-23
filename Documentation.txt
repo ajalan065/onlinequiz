@@ -1,0 +1,11 @@
+The quiz competition starts wth loadpage.html.
+After 20 seconds it will be automatically redirected to the home page where one will get each and every news 
+regarding the quiz.
+Continue by pressing the "Let the game begin" and the participants will be taken to the registration cum login page.
+Once you register/login, then the page will be refreshed to quiz1.php which contains set of 70 questions each question
+displaying once at a time. Select the option, and you will be directed to the next question.
+each question can be attempted only once.
+As th user progresses the score is calculated through the scorecalc.php page and the data about the user is updated in the
+database.
+At the end of the quiz, his total score is displayed and he is redirected to the google home page.
+Each user can play only once with his specific email id.
