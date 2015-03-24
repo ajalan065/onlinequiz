@@ -43,10 +43,10 @@
 		</pre>
 		</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 	<br /><br />';
 	}
@@ -61,10 +61,10 @@
 		</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 	<br /><br />';
 	}
@@ -80,10 +80,10 @@
 		</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 	<br /><br />';
 	}
@@ -98,10 +98,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -116,10 +116,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -134,10 +134,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -152,10 +152,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -170,10 +170,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -188,10 +188,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -206,10 +206,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -224,10 +224,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -242,10 +242,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -260,10 +260,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -278,10 +278,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -297,10 +297,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -315,10 +315,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -333,10 +333,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -351,10 +351,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -369,10 +369,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -387,10 +387,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -405,10 +405,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -423,10 +423,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -441,10 +441,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -459,10 +459,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -478,10 +478,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -496,10 +496,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -514,10 +514,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -532,10 +532,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -550,10 +550,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -568,10 +568,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -586,10 +586,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -606,10 +606,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -624,10 +624,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -642,10 +642,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -660,10 +660,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -684,10 +684,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -706,10 +706,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -724,10 +724,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -742,10 +742,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -761,10 +761,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -779,10 +779,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -797,10 +797,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -815,10 +815,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -834,10 +834,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -856,10 +856,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -875,10 +875,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -893,10 +893,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -914,10 +914,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -932,10 +932,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -950,10 +950,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -970,10 +970,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -989,10 +989,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -1007,10 +1007,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -1025,10 +1025,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}if($q=='55')
@@ -1042,10 +1042,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -1060,10 +1060,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -1078,10 +1078,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -1096,10 +1096,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -1114,10 +1114,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -1135,10 +1135,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -1153,10 +1153,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -1175,10 +1175,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -1196,10 +1196,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -1214,10 +1214,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -1236,10 +1236,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -1262,10 +1262,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -1282,10 +1282,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -1301,10 +1301,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -1320,10 +1320,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
@@ -1339,10 +1339,10 @@
 	</pre>
 	</h3>
 		<form action="scorecalc.php" method="POST">
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />
-			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="i" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="ii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iii" />&nbsp;&nbsp;
+			<input type="submit" class="btn btn-md btn-danger" name="ans" value="iv" />&nbsp;&nbsp;
 		</form>
 		<br /><br />';
 	}
